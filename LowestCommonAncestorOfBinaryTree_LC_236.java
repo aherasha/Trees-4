@@ -1,12 +1,13 @@
 /*
  Approach 1- Path finidng Algo
  We can find path for every node via brute force recursion or backtracking
- Did this code successfully run on Leetcode :  Yes
- Any problem you faced while coding this :  No
  Time complexity - O(N) sice we are visiting all nodes
  Space complexity - O(H) recursive stack as well as storing path in list
  Recusrion stack O(H) can O(logN) in case of perfect tree
  and O(H) will change to O(N) in skewed tree. for simplicity we say space complexity is O(H)
+
+ Did this code successfully run on Leetcode :  Yes
+ Any problem you faced while coding this :  No
 */
 
 import java.util.ArrayList;

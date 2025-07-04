@@ -4,11 +4,11 @@
            - if we are at point where p and q are left and right respectively, root is the
            lca
            - if we reach at any given node p or q then that is the lca
+ Time Complexity - O(H)
+ Space Complexity - O(H)
 
 Did this code successfully run on Leetcode :  Yes
 Any problem you faced while coding this :  No
- Time Complexity - O(H)
- Space Complexity - O(H)
  */
 class TreeNode {
     int val;
